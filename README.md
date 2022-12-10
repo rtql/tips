@@ -1,1 +1,1 @@
-# Hints
+# tips for learning
